@@ -87,8 +87,8 @@ This dashboard helps HR teams:
 - Make informed HR decisions using data-driven insights
 
 ## 8.Full Dashboard Preview
-
 <img width="1422" height="732" alt="Screenshot of the Dashboard" src="https://github.com/user-attachments/assets/24841e03-d487-41ed-b43d-0ad9b1feabfa" />
+
 ## Department Analysis
 
 ## Administration Dashboard
@@ -104,7 +104,7 @@ This dashboard helps HR teams:
 <img width="1462" height="801" alt="Screenshot 2026-07-19 122438" src="https://github.com/user-attachments/assets/40873308-c242-4540-b720-8ed5f040cfda" />
 
 ## Marketing Dashboard
-<img width="1462" height="801" alt="Screenshot 2026-07-19 122438" src="https://github.com/user-attachments/assets/ef88f367-0626-4b9d-9017-a2cfce954173" />
+<img width="1449" height="805" alt="Screenshot 2026-07-19 122517" src="https://github.com/user-attachments/assets/c8e1e3e1-b94a-48ab-a3a1-fa42cc7ee8e1" />
 
 ## Operations Dashboard
 <img width="1463" height="800" alt="Screenshot 2026-07-19 122559" src="https://github.com/user-attachments/assets/b8f69ec1-47d0-4def-9dee-775632b66364" />
