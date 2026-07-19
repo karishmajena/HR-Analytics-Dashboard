@@ -86,10 +86,29 @@ This dashboard helps HR teams:
 - Enhance employee engagement strategies
 - Make informed HR decisions using data-driven insights
 
-## 8.Dashboard Preview
+## 8.Full Dashboard Preview
 
 <img width="1422" height="732" alt="Screenshot of the Dashboard" src="https://github.com/user-attachments/assets/24841e03-d487-41ed-b43d-0ad9b1feabfa" />
+## Department Analysis
+## Administration Dashboard
+<img width="1507" height="799" alt="Screenshot 2026-07-19 121904" src="https://github.com/user-attachments/assets/f6104408-7947-4f85-93da-252c187a0ccb" />
+## Finance Dashboard
+<img width="1507" height="799" alt="Screenshot 2026-07-19 121904" src="https://github.com/user-attachments/assets/b91fbd50-91fc-40ca-a4de-c6c867ec2ef6" />
 
+## Human Resources Dashboard
+<img width="1455" height="802" alt="Screenshot 2026-07-19 122052" src="https://github.com/user-attachments/assets/98d5efac-6431-49c5-9c16-0fb4e002efda" />
+
+## IT Dashboard
+<img width="1462" height="801" alt="Screenshot 2026-07-19 122438" src="https://github.com/user-attachments/assets/40873308-c242-4540-b720-8ed5f040cfda" />
+
+## Marketing Dashboard
+<img width="1462" height="801" alt="Screenshot 2026-07-19 122438" src="https://github.com/user-attachments/assets/ef88f367-0626-4b9d-9017-a2cfce954173" />
+
+## Operations Dashboard
+<img width="1463" height="800" alt="Screenshot 2026-07-19 122559" src="https://github.com/user-attachments/assets/b8f69ec1-47d0-4def-9dee-775632b66364" />
+
+## Sales Dashboard
+<img width="1463" height="802" alt="Screenshot 2026-07-19 122630" src="https://github.com/user-attachments/assets/097ed6d2-504a-468d-b807-7a147067fc01" />
 
 ## 9.Author
 *Karishma Jena*
