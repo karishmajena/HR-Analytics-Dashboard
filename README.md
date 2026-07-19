@@ -86,7 +86,7 @@ This dashboard helps HR teams:
 - Enhance employee engagement strategies
 - Make informed HR decisions using data-driven insights
 
-## Dashboard Preview
+## 8.Dashboard Preview
 
 <img width="1422" height="732" alt="Screenshot of the Dashboard" src="https://github.com/user-attachments/assets/24841e03-d487-41ed-b43d-0ad9b1feabfa" />
 
