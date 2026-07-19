@@ -95,7 +95,7 @@ This dashboard helps HR teams:
 <img width="1507" height="799" alt="Screenshot 2026-07-19 121904" src="https://github.com/user-attachments/assets/f6104408-7947-4f85-93da-252c187a0ccb" />
 
 ## Finance Dashboard
-<img width="1507" height="799" alt="Screenshot 2026-07-19 121904" src="https://github.com/user-attachments/assets/b91fbd50-91fc-40ca-a4de-c6c867ec2ef6" />
+<img width="1440" height="796" alt="Screenshot 2026-07-19 121940" src="https://github.com/user-attachments/assets/2b11c85f-4cdd-496e-98c9-19ef2d625bf3" />
 
 ## Human Resources Dashboard
 <img width="1455" height="802" alt="Screenshot 2026-07-19 122052" src="https://github.com/user-attachments/assets/98d5efac-6431-49c5-9c16-0fb4e002efda" />
